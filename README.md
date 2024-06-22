@@ -23,13 +23,13 @@ This weather app allows users to search for a city and view the current weather 
 
 Features
 
-
-
 Search for weather information by city
 Display current temperature, humidity, and weather conditions
 Responsive design for mobile and desktop users
 Error handling for invalid city names
-Screenshots
+
+
+<hr>
 
 Technologies Used
 
